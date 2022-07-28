@@ -782,7 +782,7 @@ const NordnetCalc = () => {
           variant="fullWidth"
           aria-label="full width tabs example"
         >
-          <Tab label="Calc (止损!!!)" {...a11yProps(0)} />
+          <Tab label="Calc" {...a11yProps(0)} />
           <Tab label="Settings" {...a11yProps(1)} />
         </Tabs>
       </AppBar>
